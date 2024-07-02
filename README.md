@@ -1,10 +1,10 @@
-# Why is this page loaded everytime I open Eyed Out?
+# Why does this page load every time I open Eyed Out?
 
-## The one's who discovered this page from Eyed Out, here's what you need to know:
+## For those who discovered this page from Eyed Out, here's what you need to know:
 
-This page serves **ONLY** as a network check for the browser to control the connectivity to the internet.
+This page serves **ONLY** as a network check for the browser to control connectivity to the internet.
 
 # What does it contain?
 
-nothing. literally it's **blank.**
-*(you can check the html code too)*
+Nothing. Literally, it's **blank.**
+*(You can check the HTML code too.)*
